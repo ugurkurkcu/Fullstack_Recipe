@@ -7,6 +7,6 @@
 
 <p>REACT-NODEJS-EXPRESSJS-TAILWIND-AXIOS-HTML-CSS kullanıldı.</p>
 
-![](/gif/screen-1.gif)
+![](/frontend/public/gif/screen-1.gif)
 
-![](/gif/screen-2.gif)
+![](/frontend/public/gif/screen-2.gif)
